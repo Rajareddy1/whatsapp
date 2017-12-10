@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>raja's program</title>
+</head>
+<body>
+<input type="text" name="aaa" value="raja" disabled><br><br>
+<input type="button" name="bbb" value="raja">
+<input type="button" name="bbb" value="raja"><br><br>
+<img src="images/pic.jpg" width="400px" height="200px"><br><br>
+<a href="www.tutorials.com" target="-blank">this is a link</a>
+<p style="color:red">this is a paragraph<P></P>
+<h2 title="tooltip">this is a heading</h2>
+</body>
+</html>
